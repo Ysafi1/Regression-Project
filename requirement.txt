@@ -1,0 +1,23 @@
+# These are required libraries for our project
+
+statsmodels
+pandas
+python-dotenv
+seaborn
+matplotlib
+pyodbc
+numpy
+xlrd
+openpyxl
+sklearn
+plotly
+xgboost
+
+# Version
+
+python base 3.10.9
+statsmodels>=(1.10.1)
+(from pandas) (2.8.2)
+(from seaborn) (1.10.1)
+matplotlib>=2.2
+xgboost(2.0.0)
